@@ -4,3 +4,5 @@ video tai-chi2:
 https://www.youtube.com/watch?v=Ka_7c_7p0GY&t=273s
 video tai-chi3:
 https://www.youtube.com/watch?v=cEvSqHZIj8w
+code link:
+https://colab.research.google.com/drive/1D-LYmHWqv2-E5CQpqg5-kvLaFyYpPT3b#scrollTo=sX9sDK9QmTgk
