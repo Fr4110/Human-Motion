@@ -1,8 +1,8 @@
 video tai-chi1:
-https://www.youtube.com/watch?v=o1oM9cZo6UI&t=308s
+https://www.youtube.com/watch?v=o1oM9cZo6UI&t=308s  [2:30-2:50]
 video tai-chi2:
-https://www.youtube.com/watch?v=Ka_7c_7p0GY&t=273s
+https://www.youtube.com/watch?v=Ka_7c_7p0GY&t=273s  [3:02-3:27]
 video tai-chi3:
-https://www.youtube.com/watch?v=cEvSqHZIj8w
+https://www.youtube.com/watch?v=cEvSqHZIj8w         [7:19-7:44]
 code link:
 https://colab.research.google.com/drive/1D-LYmHWqv2-E5CQpqg5-kvLaFyYpPT3b#scrollTo=sX9sDK9QmTgk
